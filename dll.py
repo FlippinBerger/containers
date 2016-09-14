@@ -1,8 +1,8 @@
 class Node:
-    def __init__(self, val=None, prev=None, next=None):
+    def __init__(self, val=None):
         self.val = val
-        self.prev = prev
-        self.next = next
+        self.prev = None
+        self.next = None
 
 class DLL:
     def __init__(self):
