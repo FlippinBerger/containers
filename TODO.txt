@@ -1,8 +1,29 @@
 Hash Map
+Circular Linked List
+Priority Queue
 Sorting algorithms
+    Bubble
+    Insertion
+    Selection
+    Merge
+    Heap
+    Quick
 Tree Structures
+    Basic
+    Binary Search (BST)
+    AVL
+    Red-Black
 Heaps
-Search Algorithms(depth first vs breadth first)
+    Binary
+    Fibonacci
+    Possibly MinMax? If time
+Search Algorithms
+    Depth First
+    Breadth First
 Graphs
-Shortest Path Algorithms (Primms and Dijkstra)
+    Adjacency List
+    Adjacency Matrix
+Shortest Path Algorithms
+    Prims
+    Dijkstra
 LRU Cache
