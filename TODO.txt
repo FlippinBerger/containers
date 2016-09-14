@@ -1,0 +1,8 @@
+Hash Map
+Sorting algorithms
+Tree Structures
+Heaps
+Search Algorithms(depth first vs breadth first)
+Graphs
+Shortest Path Algorithms (Primms and Dijkstra)
+LRU Cache
