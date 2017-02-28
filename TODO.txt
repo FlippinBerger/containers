@@ -1,5 +1,5 @@
-Hash Map
-Circular Linked List
+Hash Map - come back 
+X - Circular Linked List
 Priority Queue
 Sorting algorithms
     Bubble
@@ -9,14 +9,14 @@ Sorting algorithms
     Heap
     Quick
 Tree Structures
-    Basic
-    Binary Search (BST)
+    X - Basic
+    X - Binary Search (BST)
     AVL
     Red-Black
-Heaps
-    Binary
+X - Heaps
+    X - Binary
     Fibonacci
-    Possibly MinMax? If time
+    X - Possibly MinMax? If time
 Search Algorithms
     Depth First
     Breadth First
